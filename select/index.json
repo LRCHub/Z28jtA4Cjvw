@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Assumptions",
+  "base_artist": "Sam Gellaitry",
+  "createdAt": "2025-12-02T13:17:30.685619Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Assumptions",
+      "artist": "Sam Gellaitry",
+      "has_synced": true,
+      "path": "select/01_Assumptions_Sam_Gellaitry.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Assumptions - Jengi Remix",
+      "artist": "Sam Gellaitry feat. Jengi",
+      "has_synced": true,
+      "path": "select/02_Assumptions_-_Jengi_Remix_Sam_Gellaitry_feat._Jengi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Assumptions - Jengi Remix",
+      "artist": "Sam Gellaitry/Jengi",
+      "has_synced": true,
+      "path": "select/03_Assumptions_-_Jengi_Remix_Sam_Gellaitry_Jengi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Assumptions",
+      "artist": "Byron Messia",
+      "has_synced": false,
+      "path": "select/04_Assumptions_Byron_Messia.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Assumptions",
+      "artist": "Dawin",
+      "has_synced": true,
+      "path": "select/05_Assumptions_Dawin.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Assumptions",
+      "artist": "Dizzy Wright",
+      "has_synced": false,
+      "path": "select/06_Assumptions_Dizzy_Wright.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Assumptions",
+      "artist": "Ali Gatie",
+      "has_synced": true,
+      "path": "select/07_Assumptions_Ali_Gatie.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Assumptions",
+      "artist": "Sam Gellaitry",
+      "has_synced": true,
+      "path": "select/08_Assumptions_Sam_Gellaitry.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Assumptions of a Burnout (feat. pariahkai)",
+      "artist": "flwrs.",
+      "has_synced": false,
+      "path": "select/09_Assumptions_of_a_Burnout_(feat._pariahkai)_flwrs..txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Assumptions",
+      "artist": "Shareefa",
+      "has_synced": false,
+      "path": "select/10_Assumptions_Shareefa.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Assumptions",
+      "artist": "Sam Gellaitry",
+      "has_synced": true,
+      "path": "select/11_Assumptions_Sam_Gellaitry.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Assumptions - Jengi Remix",
+      "artist": "Sam Gellaitry",
+      "has_synced": true,
+      "path": "select/12_Assumptions_-_Jengi_Remix_Sam_Gellaitry.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Assumptions - Live Version",
+      "artist": "Ali Gatie",
+      "has_synced": true,
+      "path": "select/13_Assumptions_-_Live_Version_Ali_Gatie.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Assumptions",
+      "artist": "Baby Keyy",
+      "has_synced": false,
+      "path": "select/14_Assumptions_Baby_Keyy.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Assumptions - Kaytranada Edit",
+      "artist": "Sam Gellaitry, KAYTRANADA",
+      "has_synced": true,
+      "path": "select/15_Assumptions_-_Kaytranada_Edit_Sam_Gellaitry,_KAYTRANADA.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Lies & Assumptions (feat. KillBunk)",
+      "artist": "Yungex",
+      "has_synced": false,
+      "path": "select/16_Lies_&_Assumptions_(feat._KillBunk)_Yungex.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Assumptions",
+      "artist": "Sam Gellaitry",
+      "has_synced": false,
+      "path": "select/pl_01_Assumptions_Sam_Gellaitry.txt"
+    }
+  ]
+}
